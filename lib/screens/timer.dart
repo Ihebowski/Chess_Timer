@@ -4,13 +4,13 @@ import 'package:get/get.dart';
 import 'dart:math' as math;
 
 //Controllers
-import 'logic/timer_controller.dart';
+import '../logic/timer_controller.dart';
 
 //Widgets
-import 'package:chess_timer/screens/widgets/time.dart';
-import 'package:chess_timer/screens/widgets/turn.dart';
-import 'package:chess_timer/screens/widgets/resign.dart';
-import 'package:chess_timer/screens/widgets/lose.dart';
+import 'package:chess_timer/widgets/time.dart';
+import 'package:chess_timer/widgets/turn.dart';
+import 'package:chess_timer/widgets/resign.dart';
+import 'package:chess_timer/widgets/lose.dart';
 
 class TimerScreen extends StatelessWidget {
   const TimerScreen({super.key});
