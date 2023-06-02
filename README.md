@@ -1,6 +1,6 @@
 # chess_timer
 
-A new Flutter project.
+This app allows the user to select a curtain time for his game and then displays the remaining time for each participant until a circumstance, such as time running out or a player resigning, appears.
 
 ## Getting Started
 
